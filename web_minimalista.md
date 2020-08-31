@@ -23,3 +23,4 @@ Los elementos del diseño que **NO** son típicos para una web minimalista:
 + abundancia de elementos
 + patrones y texturas complejos
 + ventanas pop ups, chat, imagenes
++ jerarquía chaótica de la pagina
