@@ -13,3 +13,13 @@ Espacio en blanco maximizado |<ul><li>Absencia de la jerarquía que transmite la
 Elementos y características reducidos | <ul><li>Conjunto limitado de elementos de la pagina</li><li>Absencia del menú de navegación</li></ul> | El sitio web no facilita la navegación de los usuarios, la busqueda de los elementos no es intuitiva
 Diseño plano | <ul><li>Absencia de lo elementos 3D (sombras etc.)</li></ul>|
 Alto contraste | <ul><li>La pagína consiste en los elementos de color negro y blanco</li></ul> |
+
+**Página Web:** https://paginasweb.staffcreativa.pe/?utm_source=blog&utm_medium=banner&utm_content=end-post&utm_campaign=Blog%20Banners
+
+Los elementos del diseño que **NO** son típicos para una web minimalista:
+
++ abundancia de colores
++ elementos 3D
++ abundancia de elementos
++ patrones y texturas complejos
++ ventanas pop ups, chat, imagenes
