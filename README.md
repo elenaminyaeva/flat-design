@@ -7,5 +7,5 @@ Ser claro | <ul><li>Evitar el mismo método visual para el texto estático y un 
 Ser sencillo| <ul><li>Asegurarse de que los botones parezcan a los botones físicos</li><li>Evitar los "botones-antasmas": texto con un contorno rectangular delgado</li><li>Asegurarse de que los elementos más pequeños se agranden cuando se hace clic en ellos</li><li>Utilizar iconos estándar y reconocibles en los enlaces</li><li>Subrayar correctamente los tabs</li></ul>
 Ser tradicional | <ul><li>Utilizar los layouts estándar</li><li>Procurar el diseño visual limpio</li></ul>
 Ser coherente | <ul><li>Presta atención al contraste</li><li>Controlar que el texto y los elementos sean claramente legibles y visibles</li></ul>
-No ser estrícto | Añadir algunas sombras 3D sutiles o efectos de capas para aclarar las relaciones entre los elementos
-Ser previsible | En situaciones en las que los usuarios puedan asumir razonablemente que algo es un enlace, debería serlo
+No ser estrícto | <ul><li>Añadir algunas sombras 3D sutiles o efectos de capas para aclarar las relaciones entre los elementos</li></ul>
+Ser previsible | <ul><li>En situaciones en las que los usuarios puedan asumir razonablemente que algo es un enlace, debería serlo</li></ul>
