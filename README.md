@@ -3,4 +3,4 @@
 
 **Acción** | **Descripción**
 --- | --- 
-Colores | + Evitar el mismo método visual para el texto estático y un enlace <br> + Evitar el mismo color para los botones de acción y el fondo de un encabezado estático
+Colores | <ul><li>Evitar el mismo método visual para el texto estático y un enlace </li><li>Evitar el mismo color para los botones de acción y el fondo de un encabezado estático</li></ul>
